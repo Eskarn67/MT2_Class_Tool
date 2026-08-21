@@ -118,3 +118,5 @@ py -3 mt2_cli.py export BaseCard.png class.csv
 py -3 mt2_cli.py build BaseCard.png class.csv NewCard.png
 py -3 mt2_cli.py validate NewCard.png
 ```
+
+This is an unofficial community tool and is not affiliated with or endorsed by the developers or publishers of MMORPG Tycoon 2. MMORPG Tycoon 2 and its associated names, artwork, and assets belong to their respective owners. This repository’s licence applies only to the original source code and documentation included here.
