@@ -4,7 +4,14 @@ A Windows desktop editor for the character data hidden inside MMORPG Tycoon 2 cl
 
 The editor changes the class name, tagline, description, base health, mana, rage, movement speed, and supported skill fields. The base PNG's model, colours, scales, costume and ability icons are preserved.
 
-Latest version <https://github.com/Eskarn67/MT2_Class_Tool/blob/main/dist/MT2ClassTool.exe>
+## Download
+
+
+Windows users can download the standalone executable from the
+[latest release](../../releases/latest).
+
+
+No Python installation is required.
 
 
 ## Build the standalone Windows EXE
