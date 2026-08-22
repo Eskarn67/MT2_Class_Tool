@@ -4,6 +4,16 @@ A Windows desktop editor for the character data hidden inside MMORPG Tycoon 2 cl
 
 The editor changes the class name, tagline, description, base health, mana, rage, movement speed, and supported skill fields. The base PNG's model, colours, scales, costume and ability icons are preserved.
 
+## Download
+
+
+Windows users can download the standalone executable from the
+[latest release](../../releases/latest).
+
+
+No Python installation is required.
+
+
 ## Build the standalone Windows EXE
 
 1. Install 64-bit Python 3 from <https://www.python.org/downloads/windows/> and enable **Add Python to PATH**.
@@ -108,3 +118,5 @@ py -3 mt2_cli.py export BaseCard.png class.csv
 py -3 mt2_cli.py build BaseCard.png class.csv NewCard.png
 py -3 mt2_cli.py validate NewCard.png
 ```
+
+This is an unofficial community tool and is not affiliated with or endorsed by the developers or publishers of MMORPG Tycoon 2. MMORPG Tycoon 2 and its associated names, artwork, and assets belong to their respective owners. This repository’s licence applies only to the original source code and documentation included here.
